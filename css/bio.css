@@ -1,0 +1,21 @@
+header{
+    background-color: darkturquoise;
+    
+}
+   
+section.aboutme img{
+float: right;
+}
+
+section img{
+    float: left;
+    padding-right: 4%;
+}
+
+footer{
+    background-color: darkturquoise;
+}
+
+body{
+    background-color: rgb(225, 231, 233);
+}
